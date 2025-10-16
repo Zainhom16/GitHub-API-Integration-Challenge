@@ -4,7 +4,7 @@ This project was developed as part of the **Full Stack Intern (AI Focus)** task 
 
 It integrates the **GitHub API** with an **AI-powered analysis feature**, allowing users to fetch repository data and generate AI-based insights.
 
----
+
 
 ## Tech Stack
 
@@ -13,7 +13,7 @@ It integrates the **GitHub API** with an **AI-powered analysis feature**, allowi
 - **UI:** ShadCN + Tailwind CSS
 - **AI Model:** `mistralai/mistral-7b-instruct:free` via **OpenRouter API**
 
----
+
 
 ## AI Integration
 
@@ -32,16 +32,16 @@ The AI analysis feature uses the **Mistral-7B Instruct (Free Model)** through Op
 - View local notes for each repository (stored in browser localStorage).
 - Clean and intuitive UI inspired by popular AI tools.
 
----
+
 
 ## UI Inspiration
 
 The user interface design is **inspired by modern AI tools**, focusing on clarity, responsiveness, and minimalism.
 
----
+
 
 ## DEMO
 
-```
 
-```
+
+
