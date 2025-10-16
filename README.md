@@ -11,7 +11,7 @@ It integrates the **GitHub API** with an **AI-powered analysis feature**, allowi
 - **Framework:** Next.js (App Router)
 - **Language:** TypeScript
 - **UI:** ShadCN + Tailwind CSS
-- **AI Model:** `mistralai/mistral-7b-instruct:free` via **OpenRouter API**
+- **AI Model:** `mistral-7b-instruct:free` via **OpenRouter API**
 
 
 
